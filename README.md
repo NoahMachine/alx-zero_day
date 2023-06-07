@@ -1,3 +1,3 @@
 my first readme
-Good Coding
+Good ALX Software engineer
  
