@@ -1,2 +1,2 @@
 My first readme
-Good Software Engineer
+Good programmer
